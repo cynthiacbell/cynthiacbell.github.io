@@ -4,7 +4,7 @@ title: "Writing it down"
 date: 2017-08-22
 ---
 
-I am always delighted when I come across something I wrote in the past. Well, maybe not always *delighted* but definitely interested. I love reading something and thinking,"Ha! That's not even a big deal anymore" and generally gaining insight from my past thoughts. 
+I am always delighted when I come across something I wrote in the past. Well, maybe not always *delighted* but definitely interested. I love reading something and thinking, "Ha! That's not even a big deal anymore" and generally gaining insight from my past thoughts. 
 
 I have started (and abandoned) so many blogs. If I had just written a simple paragraph about my day instead of beating myself up for not writing, I would most definitely have a lot more things written down than I do today. But alas, I let the perfect be the enemy of the good. I have deleted lots of content off the internet (or thrown out half filled journals–why?!) simply because I was frustrated with myself.
 
