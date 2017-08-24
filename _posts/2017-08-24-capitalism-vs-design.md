@@ -4,7 +4,7 @@ title: "Capitalism vs. Good Design"
 date: 2017-08-24
 ---
 
-A couple days ago Scott Berkun tweeted that there is an  “inherent tension” between good design and capitalism.  As someone who has opinions on both topics (and a pledge to start writing more) I thought I’d offer my initial reaction to his tweets.
+A couple days ago [Scott Berkun](https://twitter.com/berkun/) tweeted that there is an  “inherent tension” between good design and capitalism.  As someone who has opinions on both topics (and a pledge to start writing more) I thought I’d offer my initial reaction to his tweets.
  
 >Put another way: why would anyone choose to be a designer if they thought the world we live in was good enough as is? #ux #design -[@berkun](https://twitter.com/berkun/status/900131650830389249)
 
